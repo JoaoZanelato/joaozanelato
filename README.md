@@ -2,7 +2,7 @@
 
 **`Estudante FullStack`**
 
-Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Grande do Sul Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Sou um apreciador da tecnologia, lógica e autodidatismo!
+Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Sou um apreciador da tecnologia, lógica e autodidatismo!
 
 <div id="badges" align="left">
   <a href="https://www.linkedin.com/pt-br/joaozanelato24">
