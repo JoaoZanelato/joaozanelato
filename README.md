@@ -4,6 +4,11 @@
 
 Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Grande do Sul Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Sou um apreciador da tecnologia, lógica e autodidatismo!
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/giuseppematheus">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<div/>
 ---
 
 ### 🤖 Linguagens e Tecnologias
