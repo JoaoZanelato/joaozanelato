@@ -72,7 +72,7 @@ Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Gran
 <br/>
 
 ### 📊 Estatísticas
-
+<div flex=1>
 <p>
   <img 
     align="left" 
@@ -90,3 +90,4 @@ Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Gran
   />
 
 </p>
+</div>
