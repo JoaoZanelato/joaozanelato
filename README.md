@@ -1,14 +1,16 @@
 # 👩🏻‍💻 João Zanelato
 
 **`Estudante FullStack`**
-
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<p align="left"> 
 Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Sou um apreciador da tecnologia, lógica e autodidatismo!
-
-<div id="badges" align="left">
-  <a href="https://www.linkedin.com/pt-br/joaozanelato24">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-<div/>
+</p>
+<p align="left">
+  <a href="mailto:jgbzanelato@gmail.com?subject=Tenho%20uma%20dúvida&body=Olá,%20gostaria%20de%20saber%20mais%20sobre..." title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/pt-br/joaozanelato24" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pt-br/joaozanelato24" alt="LinkedIn"/></a>
+</p>
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -68,6 +70,44 @@ Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Gran
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
 />
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
+/>
+<br/>
+<br/>
+
+### 📖 Estudando
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring"
+    title="Spring" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Firebase"
+    title="Firebase" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg"
+/>
+
+
 <br/>
 <br/>
 
@@ -80,7 +120,19 @@ Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Gran
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=joaozanelato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
+</p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -88,4 +140,26 @@ Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Gran
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanelato&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+</p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
+---
+### 🏆 Conquistas
+
+<p align="left">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=joaozanelato&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
 </p>
