@@ -2,7 +2,7 @@
 
 **`Estudante FullStack`**
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-<p align="left"> 
+<p align="left" style="text-align: justify;"> 
 Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Sou um apreciador da tecnologia, lógica e autodidatismo!
 </p>
 <p align="left">
