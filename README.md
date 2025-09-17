@@ -8,7 +8,7 @@ Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Gran
 <p align="left">
   <a href="mailto:jgbzanelato@gmail.com?subject=Tenho%20uma%20dúvida&body=Olá,%20gostaria%20de%20saber%20mais%20sobre..." title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/pt-br/joaozanelato24" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/joaozanelato24" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pt-br/joaozanelato24" alt="LinkedIn"/></a>
 </p>
 
