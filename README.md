@@ -4,6 +4,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 <p align="left"> 
 Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no IFRS. Sou um apreciador da tecnologia, lógica e autodidatismo!
+<br/>
+<a href="https://github.com/JoaoZanelato/joaozanelato/blob/main/João%20Guilherme%20Butka%20Zanelato%20(1).pdf>CV</a>
 </p>
 <p align="left">
   <a href="mailto:jgbzanelato@gmail.com?subject=Tenho%20uma%20dúvida&body=Olá,%20gostaria%20de%20saber%20mais%20sobre..." title="Gmail">
