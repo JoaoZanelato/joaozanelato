@@ -18,6 +18,7 @@
   <a href="mailto:jgbzanelato@gmail.com" title="Gmail">
     <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/joaozanelato24" title="LinkedIn">
     <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
