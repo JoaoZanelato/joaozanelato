@@ -1,4 +1,4 @@
-# 👩🏻‍💻 João Zanelato
+# 🧑🏼‍💻 João Zanelato
 
 **`Desenvolvedor Full-Stack em formação`**
 
