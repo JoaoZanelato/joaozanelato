@@ -9,7 +9,8 @@
 </p>
 
 <p align="left">
-  <a href="https://github.com/JoaoZanelato/joaozanelato/blob/main/João%20Guilherme%20Butka%20Zanelato%20(5).pdf" title="Currículo">
+  <a href="https://github.com/JoaoZanelato/joaozanelato/blob/db6479c4e6491637c72d2dd7b10abcd4398d621e/CV%20ENGLISH%20(1).pdf" title="Currículo">
+  <a href="" title="Currículo">
     <img src="https://img.shields.io/badge/Acessar-CV-blue?style=for-the-badge" alt="Link para o Currículo"/>
   </a>
 </p>
