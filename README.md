@@ -1,71 +1,74 @@
-# 🧑🏼‍💻 João Zanelato
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Computer Illustration" width="300px">
 
-**`Desenvolvedor Full-Stack em formação`**
+  # 🧑🏼‍💻 João Zanelato
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="Ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+  ### `Full-Stack Developer (Student)`
 
-<p align="left">
-  Me chamo João Guilherme Butka Zanelato, tenho 19 anos e sou do Rio Grande do Sul. Atualmente, curso Análise e Desenvolvimento de Sistemas no IFRS. Sou um entusiasta de tecnologia, lógica e um grande adepto do autodidatismo!
-</p>
+  <p>
+    My name is <b>João Guilherme Butka Zanelato</b>, I'm 19 years old and I'm from Rio Grande do Sul, Brazil.<br>
+    Currently studying <b>Systems Analysis and Development at IFRS</b>. <br>
+    I am a technology and logic enthusiast and a strong believer in self-learning!
+  </p>
 
-<p align="left">
-  <a href="https://github.com/JoaoZanelato/joaozanelato/blob/db6479c4e6491637c72d2dd7b10abcd4398d621e/CV%20ENGLISH%20(1).pdf" title="Currículo">
-  <a href="" title="Currículo">
-    <img src="https://img.shields.io/badge/Acessar-CV-blue?style=for-the-badge" alt="Link para o Currículo"/>
-  </a>
-</p>
+  <p>
+    <a href="https://github.com/JoaoZanelato/joaozanelato/blob/main/CV%20ENGLISH%20(1).pdf" target="_blank">
+      <img src="https://img.shields.io/badge/Get%20Resume-0056D2?style=for-the-badge&logo=googledocs&logoColor=white" alt="Link to Resume"/>
+    </a>
+    <a href="mailto:jgbzanelato@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    </a>
+    <a href="https://www.linkedin.com/in/joaozanelato24">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+  </p>
+</div>
 
-<p align="left">
-  <a href="mailto:jgbzanelato@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/joaozanelato24" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<br>
 
 ---
 
-### 🚀 Linguagens e Tecnologias
+### 🚀 Tech Stack
 
-<div align="left">
-  <img alt="HTML" title="HTML" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS" title="CSS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="JavaScript" title="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Express" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img alt="Git" title="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="Python" title="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img alt="Java" title="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="MySQL" title="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+<div align="center">
+  <img alt="HTML" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="CSS" title="CSS3" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="React" title="React.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img alt="Node" title="Node.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
+  <img alt="Express" title="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt="Python" title="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Java" title="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 </div>
 
-<br/>
+<br>
 
-### 📖 Estudando Atualmente
+### 📖 Currently Studying
 
-<div align="left">
-  <img alt="React" title="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-  <img alt="Spring" title="Spring" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img alt="Firebase" title="Firebase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+<div align="center">
+  <img alt="Spring" title="Spring Boot" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img alt="Firebase" title="Firebase" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
 </div>
 
-<br/>
+<br>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaozanelato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanelato&theme=tokyonight&layout=compact&custom_title=Top%20Linguagens&langs_count=9" />
-</p>
+<div align="center">
+  <a href="https://github.com/joaozanelato">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=joaozanelato&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en&hide_border=true" />
+  </a>
+  <a href="https://github.com/joaozanelato">
+    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaozanelato&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=8&hide_border=true" />
+  </a>
+</div>
 
-<br/>
+<br>
 
-### 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=joaozanelato&column=7&theme=darkhub&no-frame=true&no-bg=true" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=joaozanelato&column=7&theme=tokyonight&no-frame=true&no-bg=true" />
+</div>
