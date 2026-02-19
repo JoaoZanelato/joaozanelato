@@ -1,0 +1,78 @@
+# Galaxy Profile README Configuration
+
+username: JoaoZanelato
+
+profile:
+  name: "João Zanelato"
+  tagline: "Full-Stack Developer | IT Support Analyst"
+  company: "EMATER/ASCAR-RS"
+  location: "Rio Grande do Sul, Brazil"
+  bio: |
+    Currently studying Systems Analysis and Development at IFRS. 
+    Technology enthusiast focused on SaaS, automation, and scalable architectures.
+  philosophy: '"Código limpo, arquitetura sólida e foco no usuário."'
+
+social:
+  email: "jgbzanelato@gmail.com"
+  linkedin: "joao-g-zanelato"
+  website: "https://joaozanelato.vercel.app"
+
+# Os 3 "braços" da sua galáxia
+galaxy_arms:
+  - name: "Frontend & Mobile"
+    color: "dendrite_violet"
+    items:
+      - "React Native"
+      - "React.js"
+      - "NextJS"
+      - "TypeScript"
+  - name: "Backend & Dados"
+    color: "synapse_cyan"
+    items:
+      - "Node.js"
+      - "Python"
+      - "PostgreSQL"
+      - "MySQL"
+  - name: "DevOps & Automação"
+    color: "axon_amber"
+    items:
+      - "Git / GitHub"
+      - "IT Support"
+      - "Automation"
+
+# Seus projetos em destaque na Constelação
+projects:
+  - repo: "JoaoZanelato/barber-saas"
+    arm: 0
+    description: "Full-Stack SaaS for barbershop management and automation."
+  - repo: "JoaoZanelato/esquizocord"
+    arm: 1
+    description: "Real-time communication with WebRTC voice channels and Google Gemini AI."
+  - repo: "JoaoZanelato/SoftwareByZane"
+    arm: 2
+    description: "Independent consultancy focusing on end-to-end custom solutions."
+
+theme:
+  void: "#080c14"
+  nebula: "#0f1623"
+  star_dust: "#1a2332"
+  synapse_cyan: "#00d4ff"
+  dendrite_violet: "#a78bfa"
+  axon_amber: "#ffb020"
+  text_bright: "#f1f5f9"
+  text_dim: "#94a3b8"
+  text_faint: "#64748b"
+
+stats:
+  metrics:
+    - "commits"
+    - "stars"
+    - "prs"
+    - "issues"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+  max_display: 8
