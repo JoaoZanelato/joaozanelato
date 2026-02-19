@@ -46,7 +46,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JoaoZanelato&column=7&theme=tokyonight&no-frame=true&no-bg=true" />
-</div>
