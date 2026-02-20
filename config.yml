@@ -4,53 +4,50 @@ username: JoaoZanelato
 
 profile:
   name: "João Zanelato"
-  tagline: "Full-Stack Developer | IT Support Analyst"
+  tagline: "ADS Student | IT Intern | Backend & Software Engineering Roadmap"
   company: "EMATER/ASCAR-RS"
   location: "Rio Grande do Sul, Brazil"
   bio: |
-    Currently studying Systems Analysis and Development at IFRS. 
-    Technology enthusiast focused on SaaS, automation, and scalable architectures.
-  philosophy: '"Código limpo, arquitetura sólida e foco no usuário."'
+    Currently in my 5th semester of Systems Analysis and Development at IFRS.
+    Working in IT Support while building a solid foundation in Backend Development (Java/Spring Boot, SQL) and Software Engineering.
+  philosophy: '"Talk is cheap. Show me the code"'
 
 social:
   email: "jgbzanelato@gmail.com"
   linkedin: "joao-g-zanelato"
   website: "https://joaozanelato.vercel.app"
 
-# Os 3 "braços" da sua galáxia
+# Os 3 "braços" da sua galáxia reposicionados estrategicamente
 galaxy_arms:
-  - name: "Frontend & Mobile"
-    color: "dendrite_violet"
-    items:
-      - "React Native"
-      - "React.js"
-      - "NextJS"
-      - "TypeScript"
-  - name: "Backend & Dados"
+  - name: "Backend Core"
     color: "synapse_cyan"
     items:
+      - "Java"
+      - "Spring Boot"
       - "Node.js"
       - "Python"
-      - "PostgreSQL"
-      - "MySQL"
-  - name: "DevOps & Automação"
+  - name: "Data & Architecture"
     color: "axon_amber"
+    items:
+      - "SQL"
+      - "PostgreSQL"
+      - "Clean Code"
+      - "Design Patterns"
+  - name: "Tools & Pragmatic UI"
+    color: "dendrite_violet"
     items:
       - "Git / GitHub"
       - "IT Support"
-      - "Automation"
+      - "React Native"
 
-# Seus projetos em destaque na Constelação
+# Seus projetos em destaque (Descrições mais realistas e focadas na lógica)
 projects:
   - repo: "JoaoZanelato/barber-saas"
     arm: 0
-    description: "Full-Stack SaaS for barbershop management and automation."
+    description: "Backend logic (Node.js) and API structuring for a barbershop system."
   - repo: "JoaoZanelato/esquizocord"
     arm: 1
-    description: "Real-time communication with WebRTC voice channels and Google Gemini AI."
-  - repo: "JoaoZanelato/SoftwareByZane"
-    arm: 2
-    description: "Independent consultancy focusing on end-to-end custom solutions."
+    description: "Study of data communication and API consumption building a chat from scratch."
 
 theme:
   void: "#080c14"
