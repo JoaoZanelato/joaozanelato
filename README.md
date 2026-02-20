@@ -6,15 +6,13 @@
 
 <div align="center">
   <p>
-    My name is <b>João Guilherme Butka Zanelato</b>, I'm 20 years old and I'm from Rio Grande do Sul, Brazil.<br>
-    Currently studying <b>Systems Analysis and Development at IFRS</b>.<br>
-    I work as an <b>IT Intern at EMATER/ASCAR-RS</b> and I'm a technology enthusiast focused on <b>SaaS</b>, <b>automation</b>, and <b>scalable architectures</b>.
+    My name is <b>João Guilherme Butka Zanelato</b>, I'm 19 years old and I'm from Rio Grande do Sul, Brazil.<br>
+    Currently studying <b>Systems Analysis and Development at IFRS (5th semester)</b>.<br>
+    I work as an <b>IT Intern at EMATER/ASCAR-RS</b> focusing on troubleshooting and infrastructure support.<br>
+    My career roadmap is heavily focused on <b>Back-end Development (Java/Spring Boot)</b>, <b>SQL</b>, and <b>Software Engineering best practices</b>.
   </p>
 
   <p>
-    <a href="https://joaozanelato.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit_Site-0078ff?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="Portfolio Online"/>
-    </a>
     <a href="https://github.com/JoaoZanelato/joaozanelato-backup/blob/main/Currículo%20-%20João%20Guilherme%20Butka%20Zanelato.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Resume-PDF-0056D2?style=for-the-badge&logo=googledocs&logoColor=white" alt="Link to Resume"/>
     </a>
