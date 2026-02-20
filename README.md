@@ -6,7 +6,7 @@
 
 <div align="center">
   <p>
-    My name is <b>João Guilherme Butka Zanelato</b>, I'm 19 years old and I'm from Rio Grande do Sul, Brazil.<br>
+    My name is <b>João Guilherme Butka Zanelato</b>, I'm 20 years old and I'm from Rio Grande do Sul, Brazil.<br>
     Currently studying <b>Systems Analysis and Development at IFRS (5th semester)</b>.<br>
     I work as an <b>IT Intern at EMATER/ASCAR-RS</b> focusing on troubleshooting and infrastructure support.<br>
     My career roadmap is heavily focused on <b>Back-end Development (Java/Spring Boot)</b>, <b>SQL</b>, and <b>Software Engineering best practices</b>.
