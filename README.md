@@ -13,7 +13,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/JoaoZanelato/joaozanelato-backup/blob/main/Currículo%20-%20João%20Guilherme%20Butka%20Zanelato.pdf" target="_blank">
+    <a href="https://github.com/JoaoZanelato/joaozanelato-backup/blob/main/Resume%20-%20João%20Guilherme%20Butka%20Zanelato.pdf" target="_blank">
       <img src="https://img.shields.io/badge/Resume-PDF-0056D2?style=for-the-badge&logo=googledocs&logoColor=white" alt="Link to Resume"/>
     </a>
     <a href="mailto:jgbzanelato@gmail.com">
