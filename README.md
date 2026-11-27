@@ -7,8 +7,8 @@
 <div align="center">
   <p>
     My name is <b>João Guilherme Butka Zanelato</b>, I'm 20 years old and I'm from Rio Grande do Sul, Brazil.<br>
-    Currently studying <b>Systems Analysis and Development at IFRS (5th semester)</b>.<br>
-    I work as an <b>Devlopmen Intern at SICREDISULMINAS RS/MG</b> focusing on troubleshooting and infrastructure support.<br>
+    Currently studying <b>Systems Analysis and Development at IFRS</b>.<br>
+    I work as an <b>Systems Development Analyst at  SICREDI SULMINAS RS/MG</b> focusing on troubleshooting and infrastructure support.<br>
     My career roadmap is heavily focused on <b>Back-end Development (Python)</b>, <b>RPA</b>,<b>SQL</b>, and <b>Software Engineering best practices</b>.
   </p>
 
