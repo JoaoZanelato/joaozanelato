@@ -5,6 +5,10 @@
 **Systems Development Analyst I @ Sicredi**<br>
 Python Backend · Automation & RPA · AI Agents
 
+<img src="./assets/binary.svg" width="850" alt="JOAO written in binary"/>
+
+<h3><em>Turning code into real value.</em></h3>
+
 <a href="https://www.linkedin.com/in/joao-g-zanelato/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
 <a href="mailto:jgbzanelato@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
